@@ -1,0 +1,3854 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 12
+/Kids [ 3 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 2258
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.062745 .160784 .290196 rg
+n 0 0 960 540 re f*
+.105882 .243137 .419608 rg
+n 640 0 320 540 re f*
+.141176 .313725 .498039 rg
+n 740 0 220 540 re f*
+.85098 .643137 .254902 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 440 Tm (PROJECT INTERIM REPORT) Tj T* ET
+1 1 1 rg
+BT /F2 40 Tf 48 TL ET
+BT 1 0 0 1 60 385 Tm (Online Shopping Cart) Tj T* ET
+BT 1 0 0 1 60 338 Tm (System) Tj T* ET
+.788235 .839216 .901961 rg
+BT /F1 16 Tf 19.2 TL ET
+BT 1 0 0 1 60 295 Tm (Using Java, HashMap, Linked List and Stack) Tj T* ET
+.85098 .643137 .254902 RG
+2 w
+n 60 270 m 200 270 l S
+1 1 1 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 60 242 Tm (Data Structures and Algorithms  |  PS No. 11) Tj T* ET
+BT /F1 11.5 Tf 13.8 TL ET
+.890196 .917647 .952941 rg
+BT 1 0 0 1 60 205 Tm (Presented by: Anuj Singh  \177  ERP ID: RU-25-10253) Tj T* ET
+BT 1 0 0 1 60 185 Tm (Guided by: Mr. Surya Mani Verna) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+.686275 .752941 .839216 rg
+BT 1 0 0 1 60 130 Tm (Rungta International Skills University) Tj T* ET
+BT 1 0 0 1 60 114 Tm (Bhilai, Chhattisgarh  |  Session 2026-27) Tj T* ET
+.85098 .643137 .254902 rg
+n
+721 330 m
+829 330 l
+832.3168 330 835 332.6832 835 336 c
+835 362 l
+835 365.3168 832.3168 368 829 368 c
+721 368 l
+717.6832 368 715 365.3168 715 362 c
+715 336 l
+715 332.6832 717.6832 330 721 330 c
+h
+f*
+.062745 .160784 .290196 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 745.306 345 Tm (Bag  |  800) Tj T* ET
+1 1 1 rg
+n
+721 282 m
+829 282 l
+832.3168 282 835 284.6832 835 288 c
+835 314 l
+835 317.3168 832.3168 320 829 320 c
+721 320 l
+717.6832 320 715 317.3168 715 314 c
+715 288 l
+715 284.6832 717.6832 282 721 282 c
+h
+f*
+.062745 .160784 .290196 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 748.972 297 Tm (Pen  |  10) Tj T* ET
+.662745 .768627 .894118 rg
+n
+721 234 m
+829 234 l
+832.3168 234 835 236.6832 835 240 c
+835 266 l
+835 269.3168 832.3168 272 829 272 c
+721 272 l
+717.6832 272 715 269.3168 715 266 c
+715 240 l
+715 236.6832 717.6832 234 721 234 c
+h
+f*
+.062745 .160784 .290196 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 732.31 249 Tm (Notebook  |  50) Tj T* ET
+1 1 1 rg
+BT /F2 20 Tf 24 TL ET
+BT 1 0 0 1 747.23 170 Tm (CART) Tj T* ET
+.686275 .752941 .839216 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 720.2183 152 Tm (last added = first removed) Tj T* ET
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Length 5041
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Project Overview) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (2) Tj T* ET
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 40 448 Tm (A console-based Java application that lets a user browse products, build a shopping cart, remove the last added item, sort the cart and check) Tj T* ET
+BT 1 0 0 1 40 431 Tm (out.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 103 m
+314 103 l
+319.528 103 324 107.472 324 113 c
+324 393 l
+324 398.528 319.528 403 314 403 c
+52 403 l
+46.472 403 42 398.528 42 393 c
+42 113 l
+42 107.472 46.472 103 52 103 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 105 m
+312 105 l
+317.528 105 322 109.472 322 115 c
+322 395 l
+322 400.528 317.528 405 312 405 c
+50 405 l
+44.472 405 40 400.528 40 395 c
+40 115 l
+40 109.472 44.472 105 50 105 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 115 5 280 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 379 Tm (What it does) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 357 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 357 Tm (Loads products from products.txt at start) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 339 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 339 Tm (Shows the product list \(ID, name, price\)) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 321 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 321 Tm (Adds a product to the cart by ID and quantity) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 303 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 303 Tm (Removes the last added item) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 285 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 285 Tm (Sorts the cart by item total) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 267 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 267 Tm (Checks out and prints the order total) Tj T* ET
+.862745 .890196 .92549 rg
+n
+351 103 m
+613 103 l
+618.528 103 623 107.472 623 113 c
+623 393 l
+623 398.528 618.528 403 613 403 c
+351 403 l
+345.472 403 341 398.528 341 393 c
+341 113 l
+341 107.472 345.472 103 351 103 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+349 105 m
+611 105 l
+616.528 105 621 109.472 621 115 c
+621 395 l
+621 400.528 616.528 405 611 405 c
+349 405 l
+343.472 405 339 400.528 339 395 c
+339 115 l
+339 109.472 343.472 105 349 105 c
+h
+B*
+.85098 .643137 .254902 rg
+n 339 115 5 280 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 359 379 Tm (Data structures used) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 357 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 357 Tm (HashMap: product ID to name and price) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 339 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 339 Tm (Singly linked list: the cart) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 321 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 321 Tm (Stack: remembers added items, so the last one) Tj T* ET
+BT 1 0 0 1 371 307 Tm (can be removed) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 289 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 289 Tm (Merge sort: orders the cart by item total) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 271 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 271 Tm (File handling: load and save product data) Tj T* ET
+.862745 .890196 .92549 rg
+n
+650 103 m
+912 103 l
+917.528 103 922 107.472 922 113 c
+922 393 l
+922 398.528 917.528 403 912 403 c
+650 403 l
+644.472 403 640 398.528 640 393 c
+640 113 l
+640 107.472 644.472 103 650 103 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+648 105 m
+910 105 l
+915.528 105 920 109.472 920 115 c
+920 395 l
+920 400.528 915.528 405 910 405 c
+648 405 l
+642.472 405 638 400.528 638 395 c
+638 115 l
+638 109.472 642.472 105 648 105 c
+h
+B*
+.243137 .556863 .419608 rg
+n 638 115 5 280 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 658 379 Tm (Project focus) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 357 Tm (Demonstrates practical use of:) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 339 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 339 Tm (Linked list \(own implementation\)) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 321 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 321 Tm (Hashing with HashMap) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 303 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 303 Tm (Stack \(LIFO\) behaviour) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 285 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 285 Tm (Sorting) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 267 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 267 Tm (Methods and file handling) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 243.4 Tm (All prices are in rupees \(whole numbers\).) Tj T* ET
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 253.578 75 Tm (The complete program is written in one Main class in a single .java file and runs from the console.) Tj T* ET
+ 
+
+endstream
+endobj
+10 0 obj
+<<
+/Contents 33 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Length 3873
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Objectives & Scope) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (3) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 123 m
+462 123 l
+467.528 123 472 127.472 472 133 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 133 l
+42 127.472 46.472 123 52 123 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 125 m
+460 125 l
+465.528 125 470 129.472 470 135 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 135 l
+40 129.472 44.472 125 50 125 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 135 5 310 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (Objectives) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 407 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 407 Tm (Store products in a HashMap \(ID to name and price\)) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 388.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 388.5 Tm (Implement the cart as our own linked list) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 370 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 370 Tm (Use a Stack to remove the last added item) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 351.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 351.5 Tm (Sort the cart by item total, high to low) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 333 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 333 Tm (Validate product ID and quantity) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 314.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 314.5 Tm (Load data from products.txt at start and save it on exit) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 296 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 296 Tm (Provide view, add, remove last, sort and checkout through methods) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 277.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 277.5 Tm (Pass the four given test cases) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 123 m
+912 123 l
+917.528 123 922 127.472 922 133 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 133 l
+492 127.472 496.472 123 502 123 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 125 m
+910 125 l
+915.528 125 920 129.472 920 135 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 135 l
+490 129.472 494.472 125 500 125 c
+h
+B*
+.85098 .643137 .254902 rg
+n 490 135 5 310 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Current Scope) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 407 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 407 Tm (Single-file, console-based Java program) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 388.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 388.5 Tm (Products: P101 Notebook \(50\), P102 Pen \(10\), P103 Bag \(800\)) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 370 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 370 Tm (Quantity must be a positive whole number) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 351.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 351.5 Tm (Unknown product IDs are rejected with a message) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 333 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 333 Tm (Remove-last uses stack order \(LIFO\)) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 314.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 314.5 Tm (Cart sorted by item total, high to low) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 296 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 296 Tm (Checkout prints the order total) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 271.7 Tm (Outside scope: GUI, database, online payment, user login and discounts.) Tj T* ET
+ 
+
+endstream
+endobj
+12 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Length 2377
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (System Requirements) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (4) Tj T* ET
+.062745 .160784 .290196 rg
+n 40 410 880 30 re f*
+1 1 1 rg
+BT /F2 12.5 Tf 15 TL ET
+BT 1 0 0 1 52 421 Tm (Category) Tj T* ET
+BT 1 0 0 1 292 421 Tm (Requirement) Tj T* ET
+1 1 1 rg
+n 40 372 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 387.5 Tm (Hardware) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 387.5 Tm (Computer / laptop; 4 GB RAM or above recommended) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 334 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 349.5 Tm (Operating System) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 349.5 Tm (Windows, Linux or macOS) Tj T* ET
+1 1 1 rg
+n 40 296 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 311.5 Tm (Software) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 311.5 Tm (JDK 8 or above \(JDK 21 recommended\)) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 258 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 273.5 Tm (Editor / IDE) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 273.5 Tm (VS Code, IntelliJ IDEA, Eclipse or any text editor) Tj T* ET
+1 1 1 rg
+n 40 220 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 235.5 Tm (Input File) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 235.5 Tm (products.txt in the same folder \(e.g. P101,Notebook,50\)) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 182 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 197.5 Tm (Execution) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 197.5 Tm (Command Prompt / Terminal) Tj T* ET
+.835294 .866667 .909804 RG
+.6 w
+n 40 182 880 258 re S
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 297.342 90 Tm (The application is designed to compile and run directly from the command line.) Tj T* ET
+ 
+
+endstream
+endobj
+14 0 obj
+<<
+/Contents 35 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+15 0 obj
+<<
+/Length 6654
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Program Workflow) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (5) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 413 m
+844 413 l
+848.4224 413 852 416.5776 852 421 c
+852 443 l
+852 447.4224 848.4224 451 844 451 c
+120 451 l
+115.5776 451 112 447.4224 112 443 c
+112 421 l
+112 416.5776 115.5776 413 120 413 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 415 m
+842 415 l
+846.4224 415 850 418.5776 850 423 c
+850 445 l
+850 449.4224 846.4224 453 842 453 c
+118 453 l
+113.5776 453 110 449.4224 110 445 c
+110 423 l
+110 418.5776 113.5776 415 118 415 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 434 m
+149 440.0751 144.0751 445 138 445 c
+131.9249 445 127 440.0751 127 434 c
+127 427.9249 131.9249 423 138 423 c
+144.0751 423 149 427.9249 149 434 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 430 Tm (1) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 430 Tm (Load products from products.txt into the HashMap) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 363 m
+844 363 l
+848.4224 363 852 366.5776 852 371 c
+852 393 l
+852 397.4224 848.4224 401 844 401 c
+120 401 l
+115.5776 401 112 397.4224 112 393 c
+112 371 l
+112 366.5776 115.5776 363 120 363 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 365 m
+842 365 l
+846.4224 365 850 368.5776 850 373 c
+850 395 l
+850 399.4224 846.4224 403 842 403 c
+118 403 l
+113.5776 403 110 399.4224 110 395 c
+110 373 l
+110 368.5776 113.5776 365 118 365 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 384 m
+149 390.0751 144.0751 395 138 395 c
+131.9249 395 127 390.0751 127 384 c
+127 377.9249 131.9249 373 138 373 c
+144.0751 373 149 377.9249 149 384 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 380 Tm (2) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 380 Tm (Show menu: view, add, view cart, remove last, sort, checkout, exit) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 313 m
+844 313 l
+848.4224 313 852 316.5776 852 321 c
+852 343 l
+852 347.4224 848.4224 351 844 351 c
+120 351 l
+115.5776 351 112 347.4224 112 343 c
+112 321 l
+112 316.5776 115.5776 313 120 313 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 315 m
+842 315 l
+846.4224 315 850 318.5776 850 323 c
+850 345 l
+850 349.4224 846.4224 353 842 353 c
+118 353 l
+113.5776 353 110 349.4224 110 345 c
+110 323 l
+110 318.5776 113.5776 315 118 315 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 334 m
+149 340.0751 144.0751 345 138 345 c
+131.9249 345 127 340.0751 127 334 c
+127 327.9249 131.9249 323 138 323 c
+144.0751 323 149 327.9249 149 334 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 330 Tm (3) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 330 Tm (Add: read product ID and quantity; validate; create cart node) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 263 m
+844 263 l
+848.4224 263 852 266.5776 852 271 c
+852 293 l
+852 297.4224 848.4224 301 844 301 c
+120 301 l
+115.5776 301 112 297.4224 112 293 c
+112 271 l
+112 266.5776 115.5776 263 120 263 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 265 m
+842 265 l
+846.4224 265 850 268.5776 850 273 c
+850 295 l
+850 299.4224 846.4224 303 842 303 c
+118 303 l
+113.5776 303 110 299.4224 110 295 c
+110 273 l
+110 268.5776 113.5776 265 118 265 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 284 m
+149 290.0751 144.0751 295 138 295 c
+131.9249 295 127 290.0751 127 284 c
+127 277.9249 131.9249 273 138 273 c
+144.0751 273 149 277.9249 149 284 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 280 Tm (4) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 280 Tm (Insert node at the end of the linked list and push it on the stack) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 213 m
+844 213 l
+848.4224 213 852 216.5776 852 221 c
+852 243 l
+852 247.4224 848.4224 251 844 251 c
+120 251 l
+115.5776 251 112 247.4224 112 243 c
+112 221 l
+112 216.5776 115.5776 213 120 213 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 215 m
+842 215 l
+846.4224 215 850 218.5776 850 223 c
+850 245 l
+850 249.4224 846.4224 253 842 253 c
+118 253 l
+113.5776 253 110 249.4224 110 245 c
+110 223 l
+110 218.5776 113.5776 215 118 215 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 234 m
+149 240.0751 144.0751 245 138 245 c
+131.9249 245 127 240.0751 127 234 c
+127 227.9249 131.9249 223 138 223 c
+144.0751 223 149 227.9249 149 234 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 230 Tm (5) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 230 Tm (Remove last: pop the stack and unlink that node from the list) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 163 m
+844 163 l
+848.4224 163 852 166.5776 852 171 c
+852 193 l
+852 197.4224 848.4224 201 844 201 c
+120 201 l
+115.5776 201 112 197.4224 112 193 c
+112 171 l
+112 166.5776 115.5776 163 120 163 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 165 m
+842 165 l
+846.4224 165 850 168.5776 850 173 c
+850 195 l
+850 199.4224 846.4224 203 842 203 c
+118 203 l
+113.5776 203 110 199.4224 110 195 c
+110 173 l
+110 168.5776 113.5776 165 118 165 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 184 m
+149 190.0751 144.0751 195 138 195 c
+131.9249 195 127 190.0751 127 184 c
+127 177.9249 131.9249 173 138 173 c
+144.0751 173 149 177.9249 149 184 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 180 Tm (6) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 180 Tm (Sort the cart by item total \(merge sort\); view cart; checkout and print total) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 113 m
+844 113 l
+848.4224 113 852 116.5776 852 121 c
+852 143 l
+852 147.4224 848.4224 151 844 151 c
+120 151 l
+115.5776 151 112 147.4224 112 143 c
+112 121 l
+112 116.5776 115.5776 113 120 113 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 115 m
+842 115 l
+846.4224 115 850 118.5776 850 123 c
+850 145 l
+850 149.4224 846.4224 153 842 153 c
+118 153 l
+113.5776 153 110 149.4224 110 145 c
+110 123 l
+110 118.5776 113.5776 115 118 115 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 134 m
+149 140.0751 144.0751 145 138 145 c
+131.9249 145 127 140.0751 127 134 c
+127 127.9249 131.9249 123 138 123 c
+144.0751 123 149 127.9249 149 134 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 130 Tm (7) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 130 Tm (On exit: save product data back to products.txt) Tj T* ET
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 329.4825 55 Tm (If the cart is empty, view cart shows 'Your cart is empty. Total: 0'.) Tj T* ET
+ 
+
+endstream
+endobj
+16 0 obj
+<<
+/Contents 36 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+17 0 obj
+<<
+/Length 4859
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Core Data Structures & Components) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (6) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 293 m
+314 293 l
+319.528 293 324 297.472 324 303 c
+324 443 l
+324 448.528 319.528 453 314 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 303 l
+42 297.472 46.472 293 52 293 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 295 m
+312 295 l
+317.528 295 322 299.472 322 305 c
+322 445 l
+322 450.528 317.528 455 312 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 305 l
+40 299.472 44.472 295 50 295 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 305 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (Product + HashMap) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 407 Tm (Product stores name and price.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 389 Tm (HashMap maps product ID \(e.g. P101\) to its Product) Tj T* ET
+BT 1 0 0 1 60 375 Tm (for O\(1\) lookup.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+351 293 m
+613 293 l
+618.528 293 623 297.472 623 303 c
+623 443 l
+623 448.528 618.528 453 613 453 c
+351 453 l
+345.472 453 341 448.528 341 443 c
+341 303 l
+341 297.472 345.472 293 351 293 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+349 295 m
+611 295 l
+616.528 295 621 299.472 621 305 c
+621 445 l
+621 450.528 616.528 455 611 455 c
+349 455 l
+343.472 455 339 450.528 339 445 c
+339 305 l
+339 299.472 343.472 295 349 295 c
+h
+B*
+.85098 .643137 .254902 rg
+n 339 305 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 359 429 Tm (CartNode) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 407 Tm (Stores product ID, name, price, quantity and item) Tj T* ET
+BT 1 0 0 1 359 393 Tm (total.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 375 Tm (Holds a next pointer to the following cart item.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+650 293 m
+912 293 l
+917.528 293 922 297.472 922 303 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+650 453 l
+644.472 453 640 448.528 640 443 c
+640 303 l
+640 297.472 644.472 293 650 293 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+648 295 m
+910 295 l
+915.528 295 920 299.472 920 305 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+648 455 l
+642.472 455 638 450.528 638 445 c
+638 305 l
+638 299.472 642.472 295 648 295 c
+h
+B*
+.243137 .556863 .419608 rg
+n 638 305 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 658 429 Tm (CartList \(linked list\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 407 Tm (Our own singly linked list with head and tail.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 389 Tm (Add at end, remove last, traverse and merge sort.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+201.5 113 m
+463.5 113 l
+469.028 113 473.5 117.472 473.5 123 c
+473.5 263 l
+473.5 268.528 469.028 273 463.5 273 c
+201.5 273 l
+195.972 273 191.5 268.528 191.5 263 c
+191.5 123 l
+191.5 117.472 195.972 113 201.5 113 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+199.5 115 m
+461.5 115 l
+467.028 115 471.5 119.472 471.5 125 c
+471.5 265 l
+471.5 270.528 467.028 275 461.5 275 c
+199.5 275 l
+193.972 275 189.5 270.528 189.5 265 c
+189.5 125 l
+189.5 119.472 193.972 115 199.5 115 c
+h
+B*
+.184314 .372549 .560784 rg
+n 189.5 125 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 209.5 249 Tm (CartStack) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 209.5 227 Tm (Array/linked stack of added nodes.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 209.5 209 Tm (push on add; pop gives the last added item to) Tj T* ET
+BT 1 0 0 1 209.5 195 Tm (remove.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+500.5 113 m
+762.5 113 l
+768.028 113 772.5 117.472 772.5 123 c
+772.5 263 l
+772.5 268.528 768.028 273 762.5 273 c
+500.5 273 l
+494.972 273 490.5 268.528 490.5 263 c
+490.5 123 l
+490.5 117.472 494.972 113 500.5 113 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+498.5 115 m
+760.5 115 l
+766.028 115 770.5 119.472 770.5 125 c
+770.5 265 l
+770.5 270.528 766.028 275 760.5 275 c
+498.5 275 l
+492.972 275 488.5 270.528 488.5 265 c
+488.5 125 l
+488.5 119.472 492.972 115 498.5 115 c
+h
+B*
+.85098 .643137 .254902 rg
+n 488.5 125 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 508.5 249 Tm (Main + Methods) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 508.5 227 Tm (Menu loop and methods: viewProducts, addToCart,) Tj T* ET
+BT 1 0 0 1 508.5 213 Tm (viewCart, removeLast, sortCart, checkout, load/save) Tj T* ET
+BT 1 0 0 1 508.5 199 Tm (file.) Tj T* ET
+ 
+
+endstream
+endobj
+18 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+19 0 obj
+<<
+/Length 3166
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Algorithm 1: Add to Cart & Remove Last) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (7) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 83 m
+462 83 l
+467.528 83 472 87.472 472 93 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 93 l
+42 87.472 46.472 83 52 83 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 85 m
+460 85 l
+465.528 85 470 89.472 470 95 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 95 l
+40 89.472 44.472 85 50 85 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 95 5 350 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (How it works) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 407 Tm (Add to cart) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 389.2 Tm (1. Read product ID and quantity.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 371.4 Tm (2. If the ID is not in the HashMap: print 'Product P999 not found.') Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 353.6 Tm (3. If quantity is not a positive whole number: reject it.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 335.8 Tm (4. Else create a node \(item total = price x quantity\), append it to the list and push it) Tj T* ET
+BT 1 0 0 1 60 322 Tm (on the stack.) Tj T* ET
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 298.68 Tm (Remove last) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 280.88 Tm (5. Pop the stack to get the last added node, unlink it from the list.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 83 m
+912 83 l
+917.528 83 922 87.472 922 93 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 93 l
+492 87.472 496.472 83 502 83 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 85 m
+910 85 l
+915.528 85 920 89.472 920 95 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 95 l
+490 89.472 494.472 85 500 85 c
+h
+B*
+.85098 .643137 .254902 rg
+n 490 95 5 350 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Report example) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 407 Tm (Inputs:) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 389.2 Tm (Menu option 2, Product ID: P101, Quantity: 2) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 365.88 Tm (Output:) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 348.08 Tm (Added: Notebook x2 = 100) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 324.76 Tm (Notebook \(price 50\) x 2 gives item total 100. The node is added at the end of the) Tj T* ET
+BT 1 0 0 1 510 310.96 Tm (cart list and pushed on the stack.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 287.64 Tm (If Remove last is chosen next, Notebook x2 is popped and removed. The cart) Tj T* ET
+BT 1 0 0 1 510 273.84 Tm (becomes empty.) Tj T* ET
+ 
+
+endstream
+endobj
+20 0 obj
+<<
+/Contents 38 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+21 0 obj
+<<
+/Length 3194
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Algorithm 2: Sort & Checkout) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (8) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 83 m
+462 83 l
+467.528 83 472 87.472 472 93 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 93 l
+42 87.472 46.472 83 52 83 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 85 m
+460 85 l
+465.528 85 470 89.472 470 95 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 95 l
+40 89.472 44.472 85 50 85 c
+h
+B*
+.243137 .556863 .419608 rg
+n 40 95 5 350 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (How it works) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 407 Tm (Sort by item total \(high to low\)) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 389.2 Tm (1. Run merge sort on the linked list: split at the middle, sort both halves, merge) Tj T* ET
+BT 1 0 0 1 60 375.4 Tm (them.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 357.6 Tm (2. When merging, the node with the larger item total comes first.) Tj T* ET
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 334.28 Tm (Checkout) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 316.48 Tm (3. Walk through the cart and add all item totals.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 298.68 Tm (4. Print 'Order placed. Total: <amount>'.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 280.88 Tm (5. Clear the cart \(and stack\).) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 83 m
+912 83 l
+917.528 83 922 87.472 922 93 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 93 l
+492 87.472 496.472 83 502 83 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 85 m
+910 85 l
+915.528 85 920 89.472 920 95 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 95 l
+490 89.472 494.472 85 500 85 c
+h
+B*
+.184314 .372549 .560784 rg
+n 490 95 5 350 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Report example) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 407 Tm (Cart has Notebook x2 = 100.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 389.2 Tm (\(a\) Option 2: P103, Quantity 1) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 371.4 Tm (Added: Bag x1 = 800) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 353.6 Tm (\(b\) Option 5: sort \(high to low\)) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 335.8 Tm (1. Bag | 800) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 318 Tm (2. Notebook | 100) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 300.2 Tm (\(c\) Option 6: Checkout) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 282.4 Tm (Order placed. Total: 900) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 259.08 Tm (Bag \(800\) comes before Notebook \(100\) after sorting.) Tj T* ET
+ 
+
+endstream
+endobj
+22 0 obj
+<<
+/Contents 39 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+23 0 obj
+<<
+/Length 3766
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Cart Calculations) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (9) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 303 m
+462 303 l
+467.528 303 472 307.472 472 313 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 313 l
+42 307.472 46.472 303 52 303 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 305 m
+460 305 l
+465.528 305 470 309.472 470 315 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 315 l
+40 309.472 44.472 305 50 305 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 315 5 130 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (Item Total) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 60 407 Tm (Item Total = Price x Quantity) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 60 387 Tm (Example: Notebook 50 x 2 = 100) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 303 m
+912 303 l
+917.528 303 922 307.472 922 313 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 313 l
+492 307.472 496.472 303 502 303 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 305 m
+910 305 l
+915.528 305 920 309.472 920 315 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 315 l
+490 309.472 494.472 305 500 305 c
+h
+B*
+.85098 .643137 .254902 rg
+n 490 315 5 130 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Cart Total) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 510 407 Tm (Cart Total = Sum of all item totals) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 510 387 Tm (Example: 100 + 800 = 900) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 133 m
+462 133 l
+467.528 133 472 137.472 472 143 c
+472 273 l
+472 278.528 467.528 283 462 283 c
+52 283 l
+46.472 283 42 278.528 42 273 c
+42 143 l
+42 137.472 46.472 133 52 133 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 135 m
+460 135 l
+465.528 135 470 139.472 470 145 c
+470 275 l
+470 280.528 465.528 285 460 285 c
+50 285 l
+44.472 285 40 280.528 40 275 c
+40 145 l
+40 139.472 44.472 135 50 135 c
+h
+B*
+.243137 .556863 .419608 rg
+n 40 145 5 130 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 259 Tm (Empty Cart) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 60 237 Tm (If the cart has no items, the total is 0 and the program prints 'Your cart is) Tj T* ET
+BT 1 0 0 1 60 221 Tm (empty.') Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 133 m
+912 133 l
+917.528 133 922 137.472 922 143 c
+922 273 l
+922 278.528 917.528 283 912 283 c
+502 283 l
+496.472 283 492 278.528 492 273 c
+492 143 l
+492 137.472 496.472 133 502 133 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 135 m
+910 135 l
+915.528 135 920 139.472 920 145 c
+920 275 l
+920 280.528 915.528 285 910 285 c
+500 285 l
+494.472 285 490 280.528 490 275 c
+490 145 l
+490 139.472 494.472 135 500 135 c
+h
+B*
+.184314 .372549 .560784 rg
+n 490 145 5 130 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 259 Tm (Validation Rules) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 510 237 Tm (Product ID must exist in the HashMap.) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 510 217 Tm (Quantity must be a positive whole number \(1, 2, 3, ...\).) Tj T* ET
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 305.3745 75 Tm (The program displays each item's total and the final order total at checkout.) Tj T* ET
+ 
+
+endstream
+endobj
+24 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+25 0 obj
+<<
+/Length 2633
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Testing & Sample Results) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 911.104 20 Tm (10) Tj T* ET
+.062745 .160784 .290196 rg
+n 40 418 880 30 re f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 429 Tm (Test case) Tj T* ET
+BT 1 0 0 1 262 429 Tm (Input) Tj T* ET
+BT 1 0 0 1 592 429 Tm (Expected output) Tj T* ET
+1 1 1 rg
+n 40 370 880 48 re f*
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 52 390.5 Tm (1. Normal input) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 262 390.5 Tm (Menu option 2 \(Add to cart\); Product ID P101; Quantity 2) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 592 390.5 Tm (Added: Notebook x2 = 100) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 322 880 48 re f*
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 52 342.5 Tm (2. Boundary / minimum) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 262 342.5 Tm (Cart is empty; Menu option 3 \(View cart\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 592 342.5 Tm (Your cart is empty. Total: 0) Tj T* ET
+1 1 1 rg
+n 40 274 880 48 re f*
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 52 294.5 Tm (3. Invalid input) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 262 294.5 Tm (Menu option 2 \(Add to cart\); Product ID P999) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 592 294.5 Tm (Product P999 not found.) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 178 880 96 re f*
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 52 222.5 Tm (4. Different valid scenario) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 262 229.25 Tm (Cart has Notebook x2 = 100; \(a\) P103, Qty 1; \(b\) Option 5 sort;) Tj T* ET
+BT 1 0 0 1 262 215.75 Tm (\(c\) Option 6 checkout) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 592 229.25 Tm (\(a\) Added: Bag x1 = 800; \(b\) 1. Bag | 800, 2. Notebook | 100; \(c\)) Tj T* ET
+BT 1 0 0 1 592 215.75 Tm (Order placed. Total: 900) Tj T* ET
+.835294 .866667 .909804 RG
+.6 w
+n 40 178 880 270 re S
+.062745 .160784 .290196 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 264.84 95 Tm (Validation rules: product ID must exist; quantity must be a positive whole number.) Tj T* ET
+ 
+
+endstream
+endobj
+26 0 obj
+<<
+/Contents 41 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+27 0 obj
+<<
+/Length 3416
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Complexity & Project Plan) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 911.104 20 Tm (11) Tj T* ET
+.062745 .160784 .290196 rg
+n 40 418 420 30 re f*
+1 1 1 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 52 429 Tm (Operation) Tj T* ET
+BT 1 0 0 1 322 429 Tm (Time complexity) Tj T* ET
+1 1 1 rg
+n 40 382 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 396.5 Tm (Product lookup \(HashMap\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 396.5 Tm (O\(1\) average) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 346 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 360.5 Tm (Add item at end \(tail pointer\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 360.5 Tm (O\(1\)) Tj T* ET
+1 1 1 rg
+n 40 310 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 324.5 Tm (Push / pop on stack) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 324.5 Tm (O\(1\)) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 274 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 288.5 Tm (Unlink last node \(singly list\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 288.5 Tm (O\(n\)) Tj T* ET
+1 1 1 rg
+n 40 238 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 252.5 Tm (Merge sort cart) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 252.5 Tm (O\(n log n\)) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 202 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 216.5 Tm (Checkout \(sum totals\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 216.5 Tm (O\(n\)) Tj T* ET
+.835294 .866667 .909804 RG
+.6 w
+n 40 202 420 246 re S
+.862745 .890196 .92549 rg
+n
+512 146 m
+912 146 l
+917.528 146 922 150.472 922 156 c
+922 436 l
+922 441.528 917.528 446 912 446 c
+512 446 l
+506.472 446 502 441.528 502 436 c
+502 156 l
+502 150.472 506.472 146 512 146 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+510 148 m
+910 148 l
+915.528 148 920 152.472 920 158 c
+920 438 l
+920 443.528 915.528 448 910 448 c
+510 448 l
+504.472 448 500 443.528 500 438 c
+500 158 l
+500 152.472 504.472 148 510 148 c
+h
+B*
+.85098 .643137 .254902 rg
+n 500 158 5 280 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 520 422 Tm (Seven-day plan) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 400 Tm (Day 1: Planning and design) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 378 Tm (Days 2-3: Linked list and stack) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 356 Tm (Days 3-4: HashMap and file handling) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 334 Tm (Days 4-5: Add, remove and view features) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 312 Tm (Days 5-6: Sorting, checkout and testing) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 290 Tm (Days 6-7: Documentation and demo) Tj T* ET
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 407.487 70 Tm (n = number of items in the cart.) Tj T* ET
+ 
+
+endstream
+endobj
+28 0 obj
+<<
+/Contents 42 0 R
+/MediaBox [ 0 0 960 540 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+29 0 obj
+<<
+/Length 3511
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Conclusion & Future Scope) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 911.104 20 Tm (12) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 123 m
+462 123 l
+467.528 123 472 127.472 472 133 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 133 l
+42 127.472 46.472 123 52 123 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 125 m
+460 125 l
+465.528 125 470 129.472 470 135 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 135 l
+40 129.472 44.472 125 50 125 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 135 5 310 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (Conclusion) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 407 Tm (The project demonstrates an online shopping cart using Java and core data) Tj T* ET
+BT 1 0 0 1 60 392.5 Tm (structures:) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 374 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 374 Tm (HashMap for fast product lookup) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 355.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 355.5 Tm (Linked list for the cart) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 337 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 337 Tm (Stack to remove the last added item) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 318.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 318.5 Tm (Merge sort for ordering by item total) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 300 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 300 Tm (File handling to load and save products) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 275.7 Tm (The program passes the normal, boundary, invalid-input and different-scenario) Tj T* ET
+BT 1 0 0 1 60 261.2 Tm (test cases.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 123 m
+912 123 l
+917.528 123 922 127.472 922 133 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 133 l
+492 127.472 496.472 123 502 123 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 125 m
+910 125 l
+915.528 125 920 129.472 920 135 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 135 l
+490 129.472 494.472 125 500 125 c
+h
+B*
+.85098 .643137 .254902 rg
+n 490 135 5 310 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Future Scope) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 407 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 407 Tm (Add remove-by-ID and update quantity) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 387 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 387 Tm (Merge duplicate products in the cart) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 367 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 367 Tm (Add discounts and tax calculation) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 347 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 347 Tm (Save order history to a file) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 327 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 327 Tm (Build a GUI or web version) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 307 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 307 Tm (Connect to a database for products) Tj T* ET
+.062745 .160784 .290196 rg
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 439.104 60 Tm (Thank You) Tj T* ET
+ 
+
+endstream
+endobj
+30 0 obj
+<<
+/Author (Divyanshu Kumar)
+/CreationDate (D\07220261126041702\05300\04700\047)
+/Creator (anonymous)
+/Keywords ()
+/ModDate (D\07220261126041702\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (unspecified)
+/Title (Online Shopping Cart System \055 Project Interim Report)
+/Trapped (\057False)
+>>
+endobj
+31 0 obj
+<<
+/Length 2258
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.062745 .160784 .290196 rg
+n 0 0 960 540 re f*
+.105882 .243137 .419608 rg
+n 640 0 320 540 re f*
+.141176 .313725 .498039 rg
+n 740 0 220 540 re f*
+.85098 .643137 .254902 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 440 Tm (PROJECT INTERIM REPORT) Tj T* ET
+1 1 1 rg
+BT /F2 40 Tf 48 TL ET
+BT 1 0 0 1 60 385 Tm (Online Shopping Cart) Tj T* ET
+BT 1 0 0 1 60 338 Tm (System) Tj T* ET
+.788235 .839216 .901961 rg
+BT /F1 16 Tf 19.2 TL ET
+BT 1 0 0 1 60 295 Tm (Using Java, HashMap, Linked List and Stack) Tj T* ET
+.85098 .643137 .254902 RG
+2 w
+n 60 270 m 200 270 l S
+1 1 1 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 60 242 Tm (Data Structures and Algorithms  |  PS No. 11) Tj T* ET
+BT /F1 11.5 Tf 13.8 TL ET
+.890196 .917647 .952941 rg
+BT 1 0 0 1 60 205 Tm (Presented by: Anuj Singh  \177  ERP ID: RU-25-10253) Tj T* ET
+BT 1 0 0 1 60 185 Tm (Guided by: Mr. Surya Mani Verma) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+.686275 .752941 .839216 rg
+BT 1 0 0 1 60 130 Tm (Rungta International Skills University) Tj T* ET
+BT 1 0 0 1 60 114 Tm (Bhilai, Chhattisgarh  |  Session 2026-27) Tj T* ET
+.85098 .643137 .254902 rg
+n
+721 330 m
+829 330 l
+832.3168 330 835 332.6832 835 336 c
+835 362 l
+835 365.3168 832.3168 368 829 368 c
+721 368 l
+717.6832 368 715 365.3168 715 362 c
+715 336 l
+715 332.6832 717.6832 330 721 330 c
+h
+f*
+.062745 .160784 .290196 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 745.306 345 Tm (Bag  |  800) Tj T* ET
+1 1 1 rg
+n
+721 282 m
+829 282 l
+832.3168 282 835 284.6832 835 288 c
+835 314 l
+835 317.3168 832.3168 320 829 320 c
+721 320 l
+717.6832 320 715 317.3168 715 314 c
+715 288 l
+715 284.6832 717.6832 282 721 282 c
+h
+f*
+.062745 .160784 .290196 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 748.972 297 Tm (Pen  |  10) Tj T* ET
+.662745 .768627 .894118 rg
+n
+721 234 m
+829 234 l
+832.3168 234 835 236.6832 835 240 c
+835 266 l
+835 269.3168 832.3168 272 829 272 c
+721 272 l
+717.6832 272 715 269.3168 715 266 c
+715 240 l
+715 236.6832 717.6832 234 721 234 c
+h
+f*
+.062745 .160784 .290196 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 732.31 249 Tm (Notebook  |  50) Tj T* ET
+1 1 1 rg
+BT /F2 20 Tf 24 TL ET
+BT 1 0 0 1 747.23 170 Tm (CART) Tj T* ET
+.686275 .752941 .839216 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 720.2183 152 Tm (last added = first removed) Tj T* ET
+ 
+
+endstream
+endobj
+32 0 obj
+<<
+/Length 5041
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Project Overview) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (2) Tj T* ET
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 40 448 Tm (A console-based Java application that lets a user browse products, build a shopping cart, remove the last added item, sort the cart and check) Tj T* ET
+BT 1 0 0 1 40 431 Tm (out.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 103 m
+314 103 l
+319.528 103 324 107.472 324 113 c
+324 393 l
+324 398.528 319.528 403 314 403 c
+52 403 l
+46.472 403 42 398.528 42 393 c
+42 113 l
+42 107.472 46.472 103 52 103 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 105 m
+312 105 l
+317.528 105 322 109.472 322 115 c
+322 395 l
+322 400.528 317.528 405 312 405 c
+50 405 l
+44.472 405 40 400.528 40 395 c
+40 115 l
+40 109.472 44.472 105 50 105 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 115 5 280 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 379 Tm (What it does) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 357 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 357 Tm (Loads products from products.txt at start) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 339 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 339 Tm (Shows the product list \(ID, name, price\)) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 321 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 321 Tm (Adds a product to the cart by ID and quantity) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 303 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 303 Tm (Removes the last added item) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 285 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 285 Tm (Sorts the cart by item total) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 267 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 267 Tm (Checks out and prints the order total) Tj T* ET
+.862745 .890196 .92549 rg
+n
+351 103 m
+613 103 l
+618.528 103 623 107.472 623 113 c
+623 393 l
+623 398.528 618.528 403 613 403 c
+351 403 l
+345.472 403 341 398.528 341 393 c
+341 113 l
+341 107.472 345.472 103 351 103 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+349 105 m
+611 105 l
+616.528 105 621 109.472 621 115 c
+621 395 l
+621 400.528 616.528 405 611 405 c
+349 405 l
+343.472 405 339 400.528 339 395 c
+339 115 l
+339 109.472 343.472 105 349 105 c
+h
+B*
+.85098 .643137 .254902 rg
+n 339 115 5 280 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 359 379 Tm (Data structures used) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 357 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 357 Tm (HashMap: product ID to name and price) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 339 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 339 Tm (Singly linked list: the cart) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 321 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 321 Tm (Stack: remembers added items, so the last one) Tj T* ET
+BT 1 0 0 1 371 307 Tm (can be removed) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 289 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 289 Tm (Merge sort: orders the cart by item total) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 271 Tm (\177) Tj T* ET
+BT 1 0 0 1 371 271 Tm (File handling: load and save product data) Tj T* ET
+.862745 .890196 .92549 rg
+n
+650 103 m
+912 103 l
+917.528 103 922 107.472 922 113 c
+922 393 l
+922 398.528 917.528 403 912 403 c
+650 403 l
+644.472 403 640 398.528 640 393 c
+640 113 l
+640 107.472 644.472 103 650 103 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+648 105 m
+910 105 l
+915.528 105 920 109.472 920 115 c
+920 395 l
+920 400.528 915.528 405 910 405 c
+648 405 l
+642.472 405 638 400.528 638 395 c
+638 115 l
+638 109.472 642.472 105 648 105 c
+h
+B*
+.243137 .556863 .419608 rg
+n 638 115 5 280 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 658 379 Tm (Project focus) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 357 Tm (Demonstrates practical use of:) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 339 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 339 Tm (Linked list \(own implementation\)) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 321 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 321 Tm (Hashing with HashMap) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 303 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 303 Tm (Stack \(LIFO\) behaviour) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 285 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 285 Tm (Sorting) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 267 Tm (\177) Tj T* ET
+BT 1 0 0 1 670 267 Tm (Methods and file handling) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 243.4 Tm (All prices are in rupees \(whole numbers\).) Tj T* ET
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 253.578 75 Tm (The complete program is written in one Main class in a single .java file and runs from the console.) Tj T* ET
+ 
+
+endstream
+endobj
+33 0 obj
+<<
+/Length 3873
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Objectives & Scope) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (3) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 123 m
+462 123 l
+467.528 123 472 127.472 472 133 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 133 l
+42 127.472 46.472 123 52 123 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 125 m
+460 125 l
+465.528 125 470 129.472 470 135 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 135 l
+40 129.472 44.472 125 50 125 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 135 5 310 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (Objectives) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 407 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 407 Tm (Store products in a HashMap \(ID to name and price\)) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 388.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 388.5 Tm (Implement the cart as our own linked list) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 370 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 370 Tm (Use a Stack to remove the last added item) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 351.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 351.5 Tm (Sort the cart by item total, high to low) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 333 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 333 Tm (Validate product ID and quantity) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 314.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 314.5 Tm (Load data from products.txt at start and save it on exit) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 296 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 296 Tm (Provide view, add, remove last, sort and checkout through methods) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 277.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 277.5 Tm (Pass the four given test cases) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 123 m
+912 123 l
+917.528 123 922 127.472 922 133 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 133 l
+492 127.472 496.472 123 502 123 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 125 m
+910 125 l
+915.528 125 920 129.472 920 135 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 135 l
+490 129.472 494.472 125 500 125 c
+h
+B*
+.85098 .643137 .254902 rg
+n 490 135 5 310 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Current Scope) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 407 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 407 Tm (Single-file, console-based Java program) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 388.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 388.5 Tm (Products: P101 Notebook \(50\), P102 Pen \(10\), P103 Bag \(800\)) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 370 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 370 Tm (Quantity must be a positive whole number) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 351.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 351.5 Tm (Unknown product IDs are rejected with a message) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 333 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 333 Tm (Remove-last uses stack order \(LIFO\)) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 314.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 314.5 Tm (Cart sorted by item total, high to low) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 296 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 296 Tm (Checkout prints the order total) Tj T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 271.7 Tm (Outside scope: GUI, database, online payment, user login and discounts.) Tj T* ET
+ 
+
+endstream
+endobj
+34 0 obj
+<<
+/Length 2377
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (System Requirements) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (4) Tj T* ET
+.062745 .160784 .290196 rg
+n 40 410 880 30 re f*
+1 1 1 rg
+BT /F2 12.5 Tf 15 TL ET
+BT 1 0 0 1 52 421 Tm (Category) Tj T* ET
+BT 1 0 0 1 292 421 Tm (Requirement) Tj T* ET
+1 1 1 rg
+n 40 372 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 387.5 Tm (Hardware) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 387.5 Tm (Computer / laptop; 4 GB RAM or above recommended) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 334 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 349.5 Tm (Operating System) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 349.5 Tm (Windows, Linux or macOS) Tj T* ET
+1 1 1 rg
+n 40 296 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 311.5 Tm (Software) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 311.5 Tm (JDK 8 or above \(JDK 21 recommended\)) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 258 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 273.5 Tm (Editor / IDE) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 273.5 Tm (VS Code, IntelliJ IDEA, Eclipse or any text editor) Tj T* ET
+1 1 1 rg
+n 40 220 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 235.5 Tm (Input File) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 235.5 Tm (products.txt in the same folder \(e.g. P101,Notebook,50\)) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 182 880 38 re f*
+.133333 .168627 .219608 rg
+BT /F2 12 Tf 14.4 TL ET
+BT 1 0 0 1 52 197.5 Tm (Execution) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 292 197.5 Tm (Command Prompt / Terminal) Tj T* ET
+.835294 .866667 .909804 RG
+.6 w
+n 40 182 880 258 re S
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 297.342 90 Tm (The application is designed to compile and run directly from the command line.) Tj T* ET
+ 
+
+endstream
+endobj
+35 0 obj
+<<
+/Length 6654
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Program Workflow) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (5) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 413 m
+844 413 l
+848.4224 413 852 416.5776 852 421 c
+852 443 l
+852 447.4224 848.4224 451 844 451 c
+120 451 l
+115.5776 451 112 447.4224 112 443 c
+112 421 l
+112 416.5776 115.5776 413 120 413 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 415 m
+842 415 l
+846.4224 415 850 418.5776 850 423 c
+850 445 l
+850 449.4224 846.4224 453 842 453 c
+118 453 l
+113.5776 453 110 449.4224 110 445 c
+110 423 l
+110 418.5776 113.5776 415 118 415 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 434 m
+149 440.0751 144.0751 445 138 445 c
+131.9249 445 127 440.0751 127 434 c
+127 427.9249 131.9249 423 138 423 c
+144.0751 423 149 427.9249 149 434 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 430 Tm (1) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 430 Tm (Load products from products.txt into the HashMap) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 363 m
+844 363 l
+848.4224 363 852 366.5776 852 371 c
+852 393 l
+852 397.4224 848.4224 401 844 401 c
+120 401 l
+115.5776 401 112 397.4224 112 393 c
+112 371 l
+112 366.5776 115.5776 363 120 363 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 365 m
+842 365 l
+846.4224 365 850 368.5776 850 373 c
+850 395 l
+850 399.4224 846.4224 403 842 403 c
+118 403 l
+113.5776 403 110 399.4224 110 395 c
+110 373 l
+110 368.5776 113.5776 365 118 365 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 384 m
+149 390.0751 144.0751 395 138 395 c
+131.9249 395 127 390.0751 127 384 c
+127 377.9249 131.9249 373 138 373 c
+144.0751 373 149 377.9249 149 384 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 380 Tm (2) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 380 Tm (Show menu: view, add, view cart, remove last, sort, checkout, exit) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 313 m
+844 313 l
+848.4224 313 852 316.5776 852 321 c
+852 343 l
+852 347.4224 848.4224 351 844 351 c
+120 351 l
+115.5776 351 112 347.4224 112 343 c
+112 321 l
+112 316.5776 115.5776 313 120 313 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 315 m
+842 315 l
+846.4224 315 850 318.5776 850 323 c
+850 345 l
+850 349.4224 846.4224 353 842 353 c
+118 353 l
+113.5776 353 110 349.4224 110 345 c
+110 323 l
+110 318.5776 113.5776 315 118 315 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 334 m
+149 340.0751 144.0751 345 138 345 c
+131.9249 345 127 340.0751 127 334 c
+127 327.9249 131.9249 323 138 323 c
+144.0751 323 149 327.9249 149 334 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 330 Tm (3) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 330 Tm (Add: read product ID and quantity; validate; create cart node) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 263 m
+844 263 l
+848.4224 263 852 266.5776 852 271 c
+852 293 l
+852 297.4224 848.4224 301 844 301 c
+120 301 l
+115.5776 301 112 297.4224 112 293 c
+112 271 l
+112 266.5776 115.5776 263 120 263 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 265 m
+842 265 l
+846.4224 265 850 268.5776 850 273 c
+850 295 l
+850 299.4224 846.4224 303 842 303 c
+118 303 l
+113.5776 303 110 299.4224 110 295 c
+110 273 l
+110 268.5776 113.5776 265 118 265 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 284 m
+149 290.0751 144.0751 295 138 295 c
+131.9249 295 127 290.0751 127 284 c
+127 277.9249 131.9249 273 138 273 c
+144.0751 273 149 277.9249 149 284 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 280 Tm (4) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 280 Tm (Insert node at the end of the linked list and push it on the stack) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 213 m
+844 213 l
+848.4224 213 852 216.5776 852 221 c
+852 243 l
+852 247.4224 848.4224 251 844 251 c
+120 251 l
+115.5776 251 112 247.4224 112 243 c
+112 221 l
+112 216.5776 115.5776 213 120 213 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 215 m
+842 215 l
+846.4224 215 850 218.5776 850 223 c
+850 245 l
+850 249.4224 846.4224 253 842 253 c
+118 253 l
+113.5776 253 110 249.4224 110 245 c
+110 223 l
+110 218.5776 113.5776 215 118 215 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 234 m
+149 240.0751 144.0751 245 138 245 c
+131.9249 245 127 240.0751 127 234 c
+127 227.9249 131.9249 223 138 223 c
+144.0751 223 149 227.9249 149 234 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 230 Tm (5) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 230 Tm (Remove last: pop the stack and unlink that node from the list) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 163 m
+844 163 l
+848.4224 163 852 166.5776 852 171 c
+852 193 l
+852 197.4224 848.4224 201 844 201 c
+120 201 l
+115.5776 201 112 197.4224 112 193 c
+112 171 l
+112 166.5776 115.5776 163 120 163 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 165 m
+842 165 l
+846.4224 165 850 168.5776 850 173 c
+850 195 l
+850 199.4224 846.4224 203 842 203 c
+118 203 l
+113.5776 203 110 199.4224 110 195 c
+110 173 l
+110 168.5776 113.5776 165 118 165 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 184 m
+149 190.0751 144.0751 195 138 195 c
+131.9249 195 127 190.0751 127 184 c
+127 177.9249 131.9249 173 138 173 c
+144.0751 173 149 177.9249 149 184 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 180 Tm (6) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 180 Tm (Sort the cart by item total \(merge sort\); view cart; checkout and print total) Tj T* ET
+.862745 .890196 .92549 rg
+n
+120 113 m
+844 113 l
+848.4224 113 852 116.5776 852 121 c
+852 143 l
+852 147.4224 848.4224 151 844 151 c
+120 151 l
+115.5776 151 112 147.4224 112 143 c
+112 121 l
+112 116.5776 115.5776 113 120 113 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+n
+118 115 m
+842 115 l
+846.4224 115 850 118.5776 850 123 c
+850 145 l
+850 149.4224 846.4224 153 842 153 c
+118 153 l
+113.5776 153 110 149.4224 110 145 c
+110 123 l
+110 118.5776 113.5776 115 118 115 c
+h
+B*
+.184314 .372549 .560784 rg
+n
+149 134 m
+149 140.0751 144.0751 145 138 145 c
+131.9249 145 127 140.0751 127 134 c
+127 127.9249 131.9249 123 138 123 c
+144.0751 123 149 127.9249 149 134 c
+f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 134.942 130 Tm (7) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 162 130 Tm (On exit: save product data back to products.txt) Tj T* ET
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 329.4825 55 Tm (If the cart is empty, view cart shows 'Your cart is empty. Total: 0'.) Tj T* ET
+ 
+
+endstream
+endobj
+36 0 obj
+<<
+/Length 4859
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Core Data Structures & Components) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (6) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 293 m
+314 293 l
+319.528 293 324 297.472 324 303 c
+324 443 l
+324 448.528 319.528 453 314 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 303 l
+42 297.472 46.472 293 52 293 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 295 m
+312 295 l
+317.528 295 322 299.472 322 305 c
+322 445 l
+322 450.528 317.528 455 312 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 305 l
+40 299.472 44.472 295 50 295 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 305 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (Product + HashMap) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 407 Tm (Product stores name and price.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 389 Tm (HashMap maps product ID \(e.g. P101\) to its Product) Tj T* ET
+BT 1 0 0 1 60 375 Tm (for O\(1\) lookup.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+351 293 m
+613 293 l
+618.528 293 623 297.472 623 303 c
+623 443 l
+623 448.528 618.528 453 613 453 c
+351 453 l
+345.472 453 341 448.528 341 443 c
+341 303 l
+341 297.472 345.472 293 351 293 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+349 295 m
+611 295 l
+616.528 295 621 299.472 621 305 c
+621 445 l
+621 450.528 616.528 455 611 455 c
+349 455 l
+343.472 455 339 450.528 339 445 c
+339 305 l
+339 299.472 343.472 295 349 295 c
+h
+B*
+.85098 .643137 .254902 rg
+n 339 305 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 359 429 Tm (CartNode) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 407 Tm (Stores product ID, name, price, quantity and item) Tj T* ET
+BT 1 0 0 1 359 393 Tm (total.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 359 375 Tm (Holds a next pointer to the following cart item.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+650 293 m
+912 293 l
+917.528 293 922 297.472 922 303 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+650 453 l
+644.472 453 640 448.528 640 443 c
+640 303 l
+640 297.472 644.472 293 650 293 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+648 295 m
+910 295 l
+915.528 295 920 299.472 920 305 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+648 455 l
+642.472 455 638 450.528 638 445 c
+638 305 l
+638 299.472 642.472 295 648 295 c
+h
+B*
+.243137 .556863 .419608 rg
+n 638 305 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 658 429 Tm (CartList \(linked list\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 407 Tm (Our own singly linked list with head and tail.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 658 389 Tm (Add at end, remove last, traverse and merge sort.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+201.5 113 m
+463.5 113 l
+469.028 113 473.5 117.472 473.5 123 c
+473.5 263 l
+473.5 268.528 469.028 273 463.5 273 c
+201.5 273 l
+195.972 273 191.5 268.528 191.5 263 c
+191.5 123 l
+191.5 117.472 195.972 113 201.5 113 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+199.5 115 m
+461.5 115 l
+467.028 115 471.5 119.472 471.5 125 c
+471.5 265 l
+471.5 270.528 467.028 275 461.5 275 c
+199.5 275 l
+193.972 275 189.5 270.528 189.5 265 c
+189.5 125 l
+189.5 119.472 193.972 115 199.5 115 c
+h
+B*
+.184314 .372549 .560784 rg
+n 189.5 125 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 209.5 249 Tm (CartStack) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 209.5 227 Tm (Array/linked stack of added nodes.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 209.5 209 Tm (push on add; pop gives the last added item to) Tj T* ET
+BT 1 0 0 1 209.5 195 Tm (remove.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+500.5 113 m
+762.5 113 l
+768.028 113 772.5 117.472 772.5 123 c
+772.5 263 l
+772.5 268.528 768.028 273 762.5 273 c
+500.5 273 l
+494.972 273 490.5 268.528 490.5 263 c
+490.5 123 l
+490.5 117.472 494.972 113 500.5 113 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+498.5 115 m
+760.5 115 l
+766.028 115 770.5 119.472 770.5 125 c
+770.5 265 l
+770.5 270.528 766.028 275 760.5 275 c
+498.5 275 l
+492.972 275 488.5 270.528 488.5 265 c
+488.5 125 l
+488.5 119.472 492.972 115 498.5 115 c
+h
+B*
+.85098 .643137 .254902 rg
+n 488.5 125 5 140 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 508.5 249 Tm (Main + Methods) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 508.5 227 Tm (Menu loop and methods: viewProducts, addToCart,) Tj T* ET
+BT 1 0 0 1 508.5 213 Tm (viewCart, removeLast, sortCart, checkout, load/save) Tj T* ET
+BT 1 0 0 1 508.5 199 Tm (file.) Tj T* ET
+ 
+
+endstream
+endobj
+37 0 obj
+<<
+/Length 3166
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Algorithm 1: Add to Cart & Remove Last) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (7) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 83 m
+462 83 l
+467.528 83 472 87.472 472 93 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 93 l
+42 87.472 46.472 83 52 83 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 85 m
+460 85 l
+465.528 85 470 89.472 470 95 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 95 l
+40 89.472 44.472 85 50 85 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 95 5 350 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (How it works) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 407 Tm (Add to cart) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 389.2 Tm (1. Read product ID and quantity.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 371.4 Tm (2. If the ID is not in the HashMap: print 'Product P999 not found.') Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 353.6 Tm (3. If quantity is not a positive whole number: reject it.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 335.8 Tm (4. Else create a node \(item total = price x quantity\), append it to the list and push it) Tj T* ET
+BT 1 0 0 1 60 322 Tm (on the stack.) Tj T* ET
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 298.68 Tm (Remove last) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 280.88 Tm (5. Pop the stack to get the last added node, unlink it from the list.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 83 m
+912 83 l
+917.528 83 922 87.472 922 93 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 93 l
+492 87.472 496.472 83 502 83 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 85 m
+910 85 l
+915.528 85 920 89.472 920 95 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 95 l
+490 89.472 494.472 85 500 85 c
+h
+B*
+.85098 .643137 .254902 rg
+n 490 95 5 350 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Report example) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 407 Tm (Inputs:) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 389.2 Tm (Menu option 2, Product ID: P101, Quantity: 2) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 365.88 Tm (Output:) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 348.08 Tm (Added: Notebook x2 = 100) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 324.76 Tm (Notebook \(price 50\) x 2 gives item total 100. The node is added at the end of the) Tj T* ET
+BT 1 0 0 1 510 310.96 Tm (cart list and pushed on the stack.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 287.64 Tm (If Remove last is chosen next, Notebook x2 is popped and removed. The cart) Tj T* ET
+BT 1 0 0 1 510 273.84 Tm (becomes empty.) Tj T* ET
+ 
+
+endstream
+endobj
+38 0 obj
+<<
+/Length 3194
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Algorithm 2: Sort & Checkout) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (8) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 83 m
+462 83 l
+467.528 83 472 87.472 472 93 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 93 l
+42 87.472 46.472 83 52 83 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 85 m
+460 85 l
+465.528 85 470 89.472 470 95 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 95 l
+40 89.472 44.472 85 50 85 c
+h
+B*
+.243137 .556863 .419608 rg
+n 40 95 5 350 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (How it works) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 407 Tm (Sort by item total \(high to low\)) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 389.2 Tm (1. Run merge sort on the linked list: split at the middle, sort both halves, merge) Tj T* ET
+BT 1 0 0 1 60 375.4 Tm (them.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 357.6 Tm (2. When merging, the node with the larger item total comes first.) Tj T* ET
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 334.28 Tm (Checkout) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 316.48 Tm (3. Walk through the cart and add all item totals.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 298.68 Tm (4. Print 'Order placed. Total: <amount>'.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 60 280.88 Tm (5. Clear the cart \(and stack\).) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 83 m
+912 83 l
+917.528 83 922 87.472 922 93 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 93 l
+492 87.472 496.472 83 502 83 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 85 m
+910 85 l
+915.528 85 920 89.472 920 95 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 95 l
+490 89.472 494.472 85 500 85 c
+h
+B*
+.184314 .372549 .560784 rg
+n 490 95 5 350 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Report example) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 407 Tm (Cart has Notebook x2 = 100.) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 389.2 Tm (\(a\) Option 2: P103, Quantity 1) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 371.4 Tm (Added: Bag x1 = 800) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 353.6 Tm (\(b\) Option 5: sort \(high to low\)) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 335.8 Tm (1. Bag | 800) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 318 Tm (2. Notebook | 100) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 300.2 Tm (\(c\) Option 6: Checkout) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 282.4 Tm (Order placed. Total: 900) Tj T* ET
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 510 259.08 Tm (Bag \(800\) comes before Notebook \(100\) after sorting.) Tj T* ET
+ 
+
+endstream
+endobj
+39 0 obj
+<<
+/Length 3766
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Cart Calculations) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 915.552 20 Tm (9) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 303 m
+462 303 l
+467.528 303 472 307.472 472 313 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 313 l
+42 307.472 46.472 303 52 303 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 305 m
+460 305 l
+465.528 305 470 309.472 470 315 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 315 l
+40 309.472 44.472 305 50 305 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 315 5 130 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (Item Total) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 60 407 Tm (Item Total = Price x Quantity) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 60 387 Tm (Example: Notebook 50 x 2 = 100) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 303 m
+912 303 l
+917.528 303 922 307.472 922 313 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 313 l
+492 307.472 496.472 303 502 303 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 305 m
+910 305 l
+915.528 305 920 309.472 920 315 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 315 l
+490 309.472 494.472 305 500 305 c
+h
+B*
+.85098 .643137 .254902 rg
+n 490 315 5 130 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Cart Total) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 510 407 Tm (Cart Total = Sum of all item totals) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 510 387 Tm (Example: 100 + 800 = 900) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 133 m
+462 133 l
+467.528 133 472 137.472 472 143 c
+472 273 l
+472 278.528 467.528 283 462 283 c
+52 283 l
+46.472 283 42 278.528 42 273 c
+42 143 l
+42 137.472 46.472 133 52 133 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 135 m
+460 135 l
+465.528 135 470 139.472 470 145 c
+470 275 l
+470 280.528 465.528 285 460 285 c
+50 285 l
+44.472 285 40 280.528 40 275 c
+40 145 l
+40 139.472 44.472 135 50 135 c
+h
+B*
+.243137 .556863 .419608 rg
+n 40 145 5 130 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 259 Tm (Empty Cart) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 60 237 Tm (If the cart has no items, the total is 0 and the program prints 'Your cart is) Tj T* ET
+BT 1 0 0 1 60 221 Tm (empty.') Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 133 m
+912 133 l
+917.528 133 922 137.472 922 143 c
+922 273 l
+922 278.528 917.528 283 912 283 c
+502 283 l
+496.472 283 492 278.528 492 273 c
+492 143 l
+492 137.472 496.472 133 502 133 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 135 m
+910 135 l
+915.528 135 920 139.472 920 145 c
+920 275 l
+920 280.528 915.528 285 910 285 c
+500 285 l
+494.472 285 490 280.528 490 275 c
+490 145 l
+490 139.472 494.472 135 500 135 c
+h
+B*
+.184314 .372549 .560784 rg
+n 490 145 5 130 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 259 Tm (Validation Rules) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 510 237 Tm (Product ID must exist in the HashMap.) Tj T* ET
+BT /F1 12 Tf 14.4 TL ET
+BT 1 0 0 1 510 217 Tm (Quantity must be a positive whole number \(1, 2, 3, ...\).) Tj T* ET
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 305.3745 75 Tm (The program displays each item's total and the final order total at checkout.) Tj T* ET
+ 
+
+endstream
+endobj
+40 0 obj
+<<
+/Length 2633
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Testing & Sample Results) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 911.104 20 Tm (10) Tj T* ET
+.062745 .160784 .290196 rg
+n 40 418 880 30 re f*
+1 1 1 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 429 Tm (Test case) Tj T* ET
+BT 1 0 0 1 262 429 Tm (Input) Tj T* ET
+BT 1 0 0 1 592 429 Tm (Expected output) Tj T* ET
+1 1 1 rg
+n 40 370 880 48 re f*
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 52 390.5 Tm (1. Normal input) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 262 390.5 Tm (Menu option 2 \(Add to cart\); Product ID P101; Quantity 2) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 592 390.5 Tm (Added: Notebook x2 = 100) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 322 880 48 re f*
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 52 342.5 Tm (2. Boundary / minimum) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 262 342.5 Tm (Cart is empty; Menu option 3 \(View cart\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 592 342.5 Tm (Your cart is empty. Total: 0) Tj T* ET
+1 1 1 rg
+n 40 274 880 48 re f*
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 52 294.5 Tm (3. Invalid input) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 262 294.5 Tm (Menu option 2 \(Add to cart\); Product ID P999) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 592 294.5 Tm (Product P999 not found.) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 178 880 96 re f*
+.133333 .168627 .219608 rg
+BT /F2 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 52 222.5 Tm (4. Different valid scenario) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 262 229.25 Tm (Cart has Notebook x2 = 100; \(a\) P103, Qty 1; \(b\) Option 5 sort;) Tj T* ET
+BT 1 0 0 1 262 215.75 Tm (\(c\) Option 6 checkout) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 592 229.25 Tm (\(a\) Added: Bag x1 = 800; \(b\) 1. Bag | 800, 2. Notebook | 100; \(c\)) Tj T* ET
+BT 1 0 0 1 592 215.75 Tm (Order placed. Total: 900) Tj T* ET
+.835294 .866667 .909804 RG
+.6 w
+n 40 178 880 270 re S
+.062745 .160784 .290196 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 264.84 95 Tm (Validation rules: product ID must exist; quantity must be a positive whole number.) Tj T* ET
+ 
+
+endstream
+endobj
+41 0 obj
+<<
+/Length 3416
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Complexity & Project Plan) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 911.104 20 Tm (11) Tj T* ET
+.062745 .160784 .290196 rg
+n 40 418 420 30 re f*
+1 1 1 rg
+BT /F2 11.5 Tf 13.8 TL ET
+BT 1 0 0 1 52 429 Tm (Operation) Tj T* ET
+BT 1 0 0 1 322 429 Tm (Time complexity) Tj T* ET
+1 1 1 rg
+n 40 382 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 396.5 Tm (Product lookup \(HashMap\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 396.5 Tm (O\(1\) average) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 346 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 360.5 Tm (Add item at end \(tail pointer\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 360.5 Tm (O\(1\)) Tj T* ET
+1 1 1 rg
+n 40 310 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 324.5 Tm (Push / pop on stack) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 324.5 Tm (O\(1\)) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 274 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 288.5 Tm (Unlink last node \(singly list\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 288.5 Tm (O\(n\)) Tj T* ET
+1 1 1 rg
+n 40 238 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 252.5 Tm (Merge sort cart) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 252.5 Tm (O\(n log n\)) Tj T* ET
+.909804 .933333 .964706 rg
+n 40 202 420 36 re f*
+.133333 .168627 .219608 rg
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 52 216.5 Tm (Checkout \(sum totals\)) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 322 216.5 Tm (O\(n\)) Tj T* ET
+.835294 .866667 .909804 RG
+.6 w
+n 40 202 420 246 re S
+.862745 .890196 .92549 rg
+n
+512 146 m
+912 146 l
+917.528 146 922 150.472 922 156 c
+922 436 l
+922 441.528 917.528 446 912 446 c
+512 446 l
+506.472 446 502 441.528 502 436 c
+502 156 l
+502 150.472 506.472 146 512 146 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+510 148 m
+910 148 l
+915.528 148 920 152.472 920 158 c
+920 438 l
+920 443.528 915.528 448 910 448 c
+510 448 l
+504.472 448 500 443.528 500 438 c
+500 158 l
+500 152.472 504.472 148 510 148 c
+h
+B*
+.85098 .643137 .254902 rg
+n 500 158 5 280 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 520 422 Tm (Seven-day plan) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 400 Tm (Day 1: Planning and design) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 378 Tm (Days 2-3: Linked list and stack) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 356 Tm (Days 3-4: HashMap and file handling) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 334 Tm (Days 4-5: Add, remove and view features) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 312 Tm (Days 5-6: Sorting, checkout and testing) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 520 290 Tm (Days 6-7: Documentation and demo) Tj T* ET
+.419608 .462745 .52549 rg
+BT /F1 10.5 Tf 12.6 TL ET
+BT 1 0 0 1 407.487 70 Tm (n = number of items in the cart.) Tj T* ET
+ 
+
+endstream
+endobj
+42 0 obj
+<<
+/Length 3511
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+.956863 .968627 .984314 rg
+n 0 0 960 540 re f*
+.062745 .160784 .290196 rg
+BT /F2 25 Tf 30 TL ET
+BT 1 0 0 1 40 493 Tm (Conclusion & Future Scope) Tj T* ET
+.184314 .372549 .560784 RG
+1.6 w
+n 40 478 m 920 478 l S
+.419608 .462745 .52549 rg
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 40 20 Tm (ONLINE SHOPPING CART SYSTEM  |  DSA PROJECT) Tj T* ET
+BT 1 0 0 1 911.104 20 Tm (12) Tj T* ET
+.862745 .890196 .92549 rg
+n
+52 123 m
+462 123 l
+467.528 123 472 127.472 472 133 c
+472 443 l
+472 448.528 467.528 453 462 453 c
+52 453 l
+46.472 453 42 448.528 42 443 c
+42 133 l
+42 127.472 46.472 123 52 123 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+50 125 m
+460 125 l
+465.528 125 470 129.472 470 135 c
+470 445 l
+470 450.528 465.528 455 460 455 c
+50 455 l
+44.472 455 40 450.528 40 445 c
+40 135 l
+40 129.472 44.472 125 50 125 c
+h
+B*
+.184314 .372549 .560784 rg
+n 40 135 5 310 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 60 429 Tm (Conclusion) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 407 Tm (The project demonstrates an online shopping cart using Java and core data) Tj T* ET
+BT 1 0 0 1 60 392.5 Tm (structures:) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 374 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 374 Tm (HashMap for fast product lookup) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 355.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 355.5 Tm (Linked list for the cart) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 337 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 337 Tm (Stack to remove the last added item) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 318.5 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 318.5 Tm (Merge sort for ordering by item total) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 300 Tm (\177) Tj T* ET
+BT 1 0 0 1 72 300 Tm (File handling to load and save products) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 60 275.7 Tm (The program passes the normal, boundary, invalid-input and different-scenario) Tj T* ET
+BT 1 0 0 1 60 261.2 Tm (test cases.) Tj T* ET
+.862745 .890196 .92549 rg
+n
+502 123 m
+912 123 l
+917.528 123 922 127.472 922 133 c
+922 443 l
+922 448.528 917.528 453 912 453 c
+502 453 l
+496.472 453 492 448.528 492 443 c
+492 133 l
+492 127.472 496.472 123 502 123 c
+h
+f*
+1 1 1 rg
+.835294 .866667 .909804 RG
+.6 w
+n
+500 125 m
+910 125 l
+915.528 125 920 129.472 920 135 c
+920 445 l
+920 450.528 915.528 455 910 455 c
+500 455 l
+494.472 455 490 450.528 490 445 c
+490 135 l
+490 129.472 494.472 125 500 125 c
+h
+B*
+.85098 .643137 .254902 rg
+n 490 135 5 310 re f*
+.062745 .160784 .290196 rg
+BT /F2 13 Tf 15.6 TL ET
+BT 1 0 0 1 510 429 Tm (Future Scope) Tj T* ET
+.133333 .168627 .219608 rg
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 407 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 407 Tm (Add remove-by-ID and update quantity) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 387 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 387 Tm (Merge duplicate products in the cart) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 367 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 367 Tm (Add discounts and tax calculation) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 347 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 347 Tm (Save order history to a file) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 327 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 327 Tm (Build a GUI or web version) Tj T* ET
+BT /F1 11 Tf 13.2 TL ET
+BT 1 0 0 1 510 307 Tm (\177) Tj T* ET
+BT 1 0 0 1 522 307 Tm (Connect to a database for products) Tj T* ET
+.062745 .160784 .290196 rg
+BT /F2 16 Tf 19.2 TL ET
+BT 1 0 0 1 439.104 60 Tm (Thank You) Tj T* ET
+ 
+
+endstream
+endobj
+xref
+0 43
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000219 00000 n 
+0000000409 00000 n 
+0000002719 00000 n 
+0000002760 00000 n 
+0000002867 00000 n 
+0000002979 00000 n 
+0000003169 00000 n 
+0000008262 00000 n 
+0000008453 00000 n 
+0000012379 00000 n 
+0000012570 00000 n 
+0000015000 00000 n 
+0000015191 00000 n 
+0000021898 00000 n 
+0000022089 00000 n 
+0000027001 00000 n 
+0000027192 00000 n 
+0000030411 00000 n 
+0000030602 00000 n 
+0000033849 00000 n 
+0000034040 00000 n 
+0000037859 00000 n 
+0000038050 00000 n 
+0000040736 00000 n 
+0000040927 00000 n 
+0000044396 00000 n 
+0000044587 00000 n 
+0000048151 00000 n 
+0000048499 00000 n 
+0000050810 00000 n 
+0000055904 00000 n 
+0000059830 00000 n 
+0000062260 00000 n 
+0000068967 00000 n 
+0000073879 00000 n 
+0000077098 00000 n 
+0000080345 00000 n 
+0000084164 00000 n 
+0000086850 00000 n 
+0000090319 00000 n 
+trailer
+<<
+/Size 43
+/Root 1 0 R
+/Info 30 0 R
+/ID [ <b3a4e9708876ffdc575eaab67449d065> <b3a4e9708876ffdc575eaab67449d065> ]
+>>
+startxref
+93883
+%%EOF
